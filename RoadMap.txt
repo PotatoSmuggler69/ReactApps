@@ -1,0 +1,11 @@
+1. Core of react. (Sate or UI manipulation, JSX)
+2. Component Reusability
+3. Reusing of Component
+4. How to Propagate Change (hooks)
+
+ADITIONAL (Since react is not a framework but a library)
+
+5. Router (React doesn't have Router we have to install another package React-Router_DOM)
+6. State Management (React doesn't have state management) (So JS libraries are used like Redux,Redux Toolkit, context API)
+7. Class based component (Legacy Code)
+8. BAAS Apps (Social Media Clone, E-commerce Apps)

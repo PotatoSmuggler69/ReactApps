@@ -1,0 +1,51 @@
+Make sure you have Node installed 
+Link : https://nodejs.org/en/download/prebuilt-installer
+
+npm --> Node Package Manager
+
+npx --> Node package Executor
+
+HOW TO initialize a React App : https://react.dev/learn/start-a-new-react-project
+
+(SLOW BUT PRESENT IN MOST documentation)
+
+>> npx create-react-app <name_of_the_app>
+
+Here create-react-app is an utility which is very heavy and thus it takes a large amount of time for installation.
+
+(WE CAN FAST-TRACK the react app building type with Vite or Parcel)
+
+Vite   :   https://vitejs.dev/
+Parcel :   https://parceljs.org/
+
+With Vite : (It is tool for making light weight development environments for developing a react project with minimal pre-install dependencies)
+STEP:
+ >> npm create vite@latest
+ 
+ npm ----------> Node Package Manager
+ create -------> is an utility
+ vite@latest --> Command for creating the latest vire project
+
+ONE thing to remember if "node_modules" directory is abscent in a vite project we should use :
+ >> npm install 
+It downloads all the node modules.
+
+
+THINGS TO KNOW FOR NOOBS
+
+1. packages.json (notice it first)
+    a) It contains the scipts like
+        1. start (used for running the project)
+        2. build (it is used for building the project just like the compile button)
+        3. test
+        4. eject
+
+        How to run a scipt ?
+            >> npm run start
+            >> npm run build
+
+
+
+
+        
+ 
