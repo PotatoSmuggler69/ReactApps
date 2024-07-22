@@ -44,7 +44,9 @@ THINGS TO KNOW FOR NOOBS
             >> npm run start
             >> npm run build
 
+2. The Compoment names should start with Capital Letters
 
+3. When we return an html from a javascript file we have to give that .jsx extension 
 
 
         

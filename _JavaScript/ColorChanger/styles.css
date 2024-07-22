@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: block;
+}
+
+.colorbox{
+    display: inline;
+    margin: 10px;
+}
+
+.colorbox div{
+    width : '200px';
+    height : '200px';
+    border: 2px solid burlywood;
+}
+
+#root{
+    display: flex;
+    orientation: landscape;
+}
